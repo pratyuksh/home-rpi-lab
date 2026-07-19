@@ -19,3 +19,6 @@
 ## Software Applications
 
 - **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - Document management system.
+- **[Prometheus](https://prometheus.io/)** - Monitoring system.
+- **[Grafana](https://grafana.com/)** - Visualization and analytics platform.
+- **[Node Exporter](https://prometheus.io/docs/guides/node-exporter/)** - Prometheus exporter for hardware metrics.
