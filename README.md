@@ -9,3 +9,13 @@
 - Official Raspberry Pi A2-Class SD Card 64GB
 - HighPi Pro 5S Case for Raspberry Pi 5 (with air vents)
 - 27W USB-C PD Power Supply EU Plug Black
+
+
+## OS
+
+- Raspberry Pi OS Lite (Trixie, 64-bit)
+
+
+## Software Applications
+
+- **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - Document management system.

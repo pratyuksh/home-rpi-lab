@@ -1,0 +1,6 @@
+config
+consume
+data
+media
+
+*.env
