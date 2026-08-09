@@ -22,3 +22,12 @@
 - **[Prometheus](https://prometheus.io/)** - Monitoring system.
 - **[Grafana](https://grafana.com/)** - Visualization and analytics platform.
 - **[Node Exporter](https://prometheus.io/docs/guides/node-exporter/)** - Prometheus exporter for hardware metrics.
+- **[Immich](https://immich.app/)** - Photo and video backup solution.
+
+
+### Usage tips
+
+- The current IP address of the Raspberry Pi is set to 192.168.1.149. This would change in a new network and would have to be updated.
+- Paperless: Login to [http://<IP_ADDRESS>:8000](http://192.168.1.149:8000).
+- Grafana: Login to [http://<IP_ADDRESS>:3000](http://192.168.1.149:3000).
+- Immich: Login to [http://<IP_ADDRESS>:2283](http://192.168.1.149:2283).
