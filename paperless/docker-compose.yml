@@ -13,10 +13,10 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./data:/usr/src/paperless/data
-      - ./media:/usr/src/paperless/media
-      - ./config:/usr/src/paperless/config
-      - ./consume:/usr/src/paperless/consume
+      - /mnt/mydisk/home-rpi-lab/paperless/data:/usr/src/paperless/data
+      - /mnt/mydisk/home-rpi-lab/paperless/media:/usr/src/paperless/media
+      - /mnt/mydisk/home-rpi-lab/paperless/config:/usr/src/paperless/config
+      - /mnt/mydisk/home-rpi-lab/paperless/consume:/usr/src/paperless/consume
     env_file: docker-compose.env
     environment:
       PAPERLESS_REDIS: redis://broker:6379
